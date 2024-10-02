@@ -1,12 +1,4 @@
-
-## Repository Deprecated
-
-This repository has been deprecated. Please check out the new repository at [https://github.com/AryanKaushal2002/MediPredict](https://github.com/AryanKaushal2002/MediPredict) for the latest updates.
-
 # Multiple Disease Prediction Web App
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 
 *A web application for predicting multiple diseases using machine learning models. This project includes prediction models for diabetes, Parkinson's disease, heart disease, and breast cancer.*
 
@@ -35,13 +27,7 @@ The diseases currently supported by this web app include:
 
 ## Installation
 
-1. Clone the repository:
-<pre>
-git clone https://github.com/AryanKaushal2002/Multiple-Disease-Prediction-Model-Deployment-using-StreamLit.git
-</pre>
-
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 <pre>
 pip install -r requirements.txt
 </pre>
@@ -76,10 +62,6 @@ The machine learning models used in this web app are trained on publicly availab
 ## Contributing
 
 *Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.*
-
-## License
-
-*This project is licensed under the [MIT License](LICENSE).*
 
 ---
 
